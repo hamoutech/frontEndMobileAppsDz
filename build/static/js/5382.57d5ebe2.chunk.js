@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkMobileApps=self.webpackChunkMobileApps||[]).push([[5382],{95382:(e,s,t)=>{t.r(s),t.d(s,{AuthLayout:()=>n,default:()=>u});t(65043);var a=t(72053),c=t(95580),l=t(70579);const n=e=>{let{children:s}=e;const{status:t}=(0,c.k)();return"loading"===t?(0,l.jsx)(a.A,{cover:"page"}):(0,l.jsx)("div",{className:"auth-container",children:s})},u=n}}]);
+//# sourceMappingURL=5382.57d5ebe2.chunk.js.map

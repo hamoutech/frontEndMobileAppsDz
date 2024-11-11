@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "/img/others/icons-cleaning.png",
+    "label": "Taches menageres",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "img": "/img/others/icons-homework.png",
+    "label": "Aide aux devoirs",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "img": "/img/others/icons-meals.png",
+    "label": "Préparer les repas",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "img": "/img/others/icons-outside.png",
+    "label": "Chercher / Ramener  les enfants à l’école",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "img": "/img/others/icons-playing.png",
+    "label": "Apporter une bonne compganie à l'enfant",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "img": "/img/others/icons-sick.png",
+    "label": "Garder un enfant malade",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "img": "/img/others/icons-sleeping.png",
+    "label": "Garder un enfant pendant son sommeil",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "img": "/img/others/icons-hygiene.png",
+    "label": "veille à l'hygiène : bain, brossage des dents",
+    "description": ""
+  }
+]

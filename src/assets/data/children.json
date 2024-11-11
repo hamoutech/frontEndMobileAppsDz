@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "label": "Babies (0-1 year)"
+  },
+  {
+    "id": 2,
+    "label": "Toddlers (1-3 years)"
+  },
+  {
+    "id": 3,
+    "label": "Young children (4-6 years)"
+  },
+  {
+    "id": 4,
+    "label": "Children (7-11 years)"
+  },
+  {
+    "id": 5,
+    "label": "Teenagers (+12 years)"
+  }
+]
